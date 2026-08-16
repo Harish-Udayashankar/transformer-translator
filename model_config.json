@@ -1,0 +1,18 @@
+{
+  "d_model": 256,
+  "N": 4,
+  "h": 8,
+  "d_ff": 1024,
+  "seq_len": 160,
+  "vocab_src": 29549,
+  "vocab_tgt": 30000,
+  "lang_src": "en",
+  "lang_tgt": "es",
+  "tokenizer_src": "tokenizer_en.json",
+  "tokenizer_tgt": "tokenizer_es.json",
+  "epochs_trained": 8,
+  "params_millions": 30.317148,
+  "final_loss": 3.925809144973755,
+  "corpus": "the opus_books English-Spanish corpus",
+  "train_pairs": 93470
+}
